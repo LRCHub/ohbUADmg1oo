@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "スロウリー",
+  "base_artist": "明透",
+  "createdAt": "2025-12-19T11:09:53.840471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スロウリー",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/01_スロウリー_明透.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スロウリー",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/02_スロウリー_明透.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スロウリー",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_スロウリー_明透.txt"
+    }
+  ]
+}
